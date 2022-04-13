@@ -18,4 +18,12 @@ Alleviate such pain points with a user-friendly Excel Add-In tool that automatic
 * Microsoft Forms
 
 # Setup
-Refer to the FINAL_Model.xlsm macro-enabled file
+Before you use this tool, make sure to download and save the following files to your local machine:
+  1. VMIS_Scheduling.xlsx (file with database of 30 volunteer information, but feel free to generate and download your own 30 volunteer data file)
+  2. FINAL_Model.xlsm (main file)
+
+# Procedure
+To run the program, perform the following:
+  1. Open the FINAL_Model.xlsm macro-enabled file
+  2. Follow the prompts on the buttons while going through the program
+  3. Done!
