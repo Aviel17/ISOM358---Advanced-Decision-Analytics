@@ -17,4 +17,4 @@ Alleviate such pain points with a user-friendly Excel Add-In tool that automatic
 * VBA
 * Microsoft Forms
 
-__Refer to the FINAL_Model.xlsm macro-enabled file  __
+_Refer to the FINAL_Model.xlsm macro-enabled file_
