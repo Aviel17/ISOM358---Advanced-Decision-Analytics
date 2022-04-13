@@ -25,5 +25,7 @@ Before you use this tool, make sure to download and save the following files to 
 # Procedure
 To run the program, perform the following:
   1. Open the `FINAL_Model.xlsm` macro-enabled file
-  2. Follow the prompts on the buttons while going through the program
-  3. Done!
+  2. Enable macros (if not already enabled)
+  3. Enable Solver _and_ OpenSolver (if both not already enabled)
+  4. Follow the prompts on the buttons while going through the program
+  5. Done!
