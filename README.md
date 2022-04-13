@@ -13,8 +13,8 @@ Alleviate such pain points with a user-friendly Excel Add-In tool that automatic
   **QR Code from Microsoft Forms --> Excel Add-In Tool --> Incomiong Outlook Email**
 
 # Technologies
-*Excel
-*VBA
-*Microsoft Forms
+* Excel
+* VBA
+* Microsoft Forms
 
 _Refer to the FINAL_Model.xlsm macro-enabled file  _
