@@ -10,5 +10,5 @@ Given 30 volunteers, 40 operating hours per week, and 1-hour time slots, we stri
 # Goal
 Alleviate such pain points with a user-friendly Excel Add-In tool that automatically creates and optimizes the on-call schedule based on students’ preferences.
 
-  QR Code from Microsoft Forms --> Excel Add-In Tool --> Incomiong Outlook Email
+  **QR Code from Microsoft Forms --> Excel Add-In Tool --> Incomiong Outlook Email**
 
