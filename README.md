@@ -1,4 +1,4 @@
-# Advanced Decision Analytics - Final Project
+# Emory Volunteer Medical Interpretation Services (VMIS) Schedule Optimization (EXCEL, VBA)
 
 ## Context
 Volunteer Medical Interpretation Services (VMIS) is an Emory organization training Spanish and Portuguese-speaking students to provide interpreting services for clinics in Atlanta, bridging the linguistic barrier between patients and physicians.
